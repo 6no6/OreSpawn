@@ -1,0 +1,2 @@
+# OreSpawn
+Minecraft plugin OreSpawn
