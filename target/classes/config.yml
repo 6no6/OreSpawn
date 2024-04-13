@@ -1,0 +1,22 @@
+WorldName: 'World'
+MaxPlayerDistance: 32
+
+Reloadtime:
+  Netherite: 120
+  Emerald: 60
+  Diamond: 30
+  Quartz: 20
+  Gold: 15
+  Iron: 10
+  Lapis: 5
+  Coal: 2
+  Redstone: 2
+  Copper: 1
+
+
+
+
+
+
+
+

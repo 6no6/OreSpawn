@@ -1,0 +1,4 @@
+name: OreSpawn
+version: '${project.version}'
+main: com.o6no6.orespawn.OreSpawn
+api-version: '1.20'
